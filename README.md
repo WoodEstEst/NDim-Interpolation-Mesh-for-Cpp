@@ -1,4 +1,4 @@
-# NDim-Interpolation-Mesh-for-Cpp 多维网格插值工具
+# C++多维网格插值工具
 
 ## 简介
 
